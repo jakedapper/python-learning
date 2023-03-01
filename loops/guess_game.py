@@ -17,7 +17,7 @@ while guess != random_number:
 			random_number = random.randint(1,10)  # numbers 1 - 10
 			guess = None
 		else:
-			print("Thank you for playing!")
+			print("Thank you for playing!!")
 			break
 
 
